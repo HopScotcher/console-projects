@@ -1,0 +1,29 @@
+Quiz Game
+
+Focus: Strings, booleans, loops, arrays, switch, methods, exceptions.
+
+Description:
+
+Ask the user multiple-choice questions stored in arrays.
+
+Track the user’s score.
+
+Use switch to validate answers.
+
+Let the user retry a question if they enter invalid input (exception handling).
+
+Show final results at the end.
+
+Concepts Covered:
+
+Arrays for questions and answers
+
+Loops: for/while
+
+Conditionals: if/else, switch
+
+Methods (e.g., AskQuestion())
+
+Exception handling for invalid input
+
+Strings & string manipulation

@@ -1,0 +1,15 @@
+C:\CODING\c-sharp\console-projects\QuizGame\bin\Debug\net9.0\QuizGame.exe
+C:\CODING\c-sharp\console-projects\QuizGame\bin\Debug\net9.0\QuizGame.deps.json
+C:\CODING\c-sharp\console-projects\QuizGame\bin\Debug\net9.0\QuizGame.runtimeconfig.json
+C:\CODING\c-sharp\console-projects\QuizGame\bin\Debug\net9.0\QuizGame.dll
+C:\CODING\c-sharp\console-projects\QuizGame\bin\Debug\net9.0\QuizGame.pdb
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.AssemblyInfoInputs.cache
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.AssemblyInfo.cs
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.sourcelink.json
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.dll
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\refint\QuizGame.dll
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.pdb
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\QuizGame.genruntimeconfig.cache
+C:\CODING\c-sharp\console-projects\QuizGame\obj\Debug\net9.0\ref\QuizGame.dll

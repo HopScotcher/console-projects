@@ -1,0 +1,19 @@
+Project 4: Basic Inventory Management System
+
+This project combines OOP (Inheritance/Polymorphism) with Arrays and Method Overloading to manage a collection of different items.
+
+    Core Idea: A system to store different types of products (e.g., Books, Electronics) in a single inventory array.
+
+    Topics Used:
+
+        Abstraction: An abstract class Product with properties like Name, Price, and an abstract void DisplayDetails().
+
+        Inheritance: Create BookProduct : Product and ElectronicProduct : Product. BookProduct adds an Author property; ElectronicProduct adds a Warranty (in months) property.
+
+        Polymorphism: Both child classes override the DisplayDetails() method to print their unique information (e.g., the book shows its author).
+
+        Arrays: Store all your objects in a single Product[] inventory = new Product[10];. Because they all inherit from Product, you can store BookProduct and ElectronicProduct objects side-by-side.
+
+        Loops (For/Foreach): Use a foreach loop to iterate over the inventory array and call product.DisplayDetails() on each one. Polymorphism ensures the correct details are printed for each object type.
+
+        Method Overloading (Bonus): Create a Search method in your main program. One version, Search(string name), finds items by name. An overloaded version, Search(double maxPrice), finds all items under a certain price.

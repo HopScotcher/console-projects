@@ -1,0 +1,31 @@
+Project 5: User Registration & Login System (File I/O)
+
+This project focuses heavily on Files (as a simple database), Strings, and Exception Handling related to file operations.
+
+    Core Idea: A console app that lets a user register a new account or log in with an existing one. User data is saved to and read from a text file.
+
+    Topics Used:
+
+        Files: This is the core. You'll use:
+
+            File.AppendAllText("users.txt", ...): To add a new user during registration.
+
+            File.ReadAllLines("users.txt"): To get all users during login.
+
+            File.Exists("users.txt"): To check if the file exists.
+
+        Strings: You'll store user data as a simple CSV (Comma Separated Values) line, like "username,password\n". You'll use string.Split(',') to parse the line.
+
+        Classes/Objects: Create a User class to hold the Username and Password after you read them from the file.
+
+        Methods: Create void Register() and bool Login() methods.
+
+        Exception Handling:
+
+            Put your File.ReadAllLines call in a try-catch block.
+
+            catch (FileNotFoundException): Handle the case where no one has registered yet.
+
+            catch (IOException): Handle a generic error if the file is locked or unreadable.
+
+        Logic (Loops, If/Else): The Login method will use a foreach loop to read each line from the file, Split it, and if the username/password match.

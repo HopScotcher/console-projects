@@ -1,0 +1,15 @@
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.AssemblyInfoInputs.cache
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.AssemblyInfo.cs
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.csproj.CoreCompileInputs.cache
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.sourcelink.json
+C:\CODING\c-sharp\console-projects\SimpleLogin\bin\Debug\net9.0\SimpleLogin.exe
+C:\CODING\c-sharp\console-projects\SimpleLogin\bin\Debug\net9.0\SimpleLogin.deps.json
+C:\CODING\c-sharp\console-projects\SimpleLogin\bin\Debug\net9.0\SimpleLogin.runtimeconfig.json
+C:\CODING\c-sharp\console-projects\SimpleLogin\bin\Debug\net9.0\SimpleLogin.dll
+C:\CODING\c-sharp\console-projects\SimpleLogin\bin\Debug\net9.0\SimpleLogin.pdb
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.dll
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\refint\SimpleLogin.dll
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.pdb
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\SimpleLogin.genruntimeconfig.cache
+C:\CODING\c-sharp\console-projects\SimpleLogin\obj\Debug\net9.0\ref\SimpleLogin.dll

@@ -1,0 +1,15 @@
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.AssemblyInfoInputs.cache
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.AssemblyInfo.cs
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.csproj.CoreCompileInputs.cache
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.sourcelink.json
+C:\CODING\c-sharp\console-projects\GuessGame\bin\Debug\net9.0\GuessGame.exe
+C:\CODING\c-sharp\console-projects\GuessGame\bin\Debug\net9.0\GuessGame.deps.json
+C:\CODING\c-sharp\console-projects\GuessGame\bin\Debug\net9.0\GuessGame.runtimeconfig.json
+C:\CODING\c-sharp\console-projects\GuessGame\bin\Debug\net9.0\GuessGame.dll
+C:\CODING\c-sharp\console-projects\GuessGame\bin\Debug\net9.0\GuessGame.pdb
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.dll
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\refint\GuessGame.dll
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.pdb
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\GuessGame.genruntimeconfig.cache
+C:\CODING\c-sharp\console-projects\GuessGame\obj\Debug\net9.0\ref\GuessGame.dll

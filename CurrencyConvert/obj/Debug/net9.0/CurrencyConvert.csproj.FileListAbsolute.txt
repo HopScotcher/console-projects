@@ -1,0 +1,15 @@
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.AssemblyInfoInputs.cache
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.AssemblyInfo.cs
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.csproj.CoreCompileInputs.cache
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.sourcelink.json
+C:\CODING\c-sharp\console-projects\CurrencyConvert\bin\Debug\net9.0\CurrencyConvert.exe
+C:\CODING\c-sharp\console-projects\CurrencyConvert\bin\Debug\net9.0\CurrencyConvert.deps.json
+C:\CODING\c-sharp\console-projects\CurrencyConvert\bin\Debug\net9.0\CurrencyConvert.runtimeconfig.json
+C:\CODING\c-sharp\console-projects\CurrencyConvert\bin\Debug\net9.0\CurrencyConvert.dll
+C:\CODING\c-sharp\console-projects\CurrencyConvert\bin\Debug\net9.0\CurrencyConvert.pdb
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.dll
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\refint\CurrencyConvert.dll
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.pdb
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\CurrencyConvert.genruntimeconfig.cache
+C:\CODING\c-sharp\console-projects\CurrencyConvert\obj\Debug\net9.0\ref\CurrencyConvert.dll

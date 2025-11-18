@@ -1,0 +1,15 @@
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfoInputs.cache
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfo.cs
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.sourcelink.json
+C:\CODING\c-sharp\console-projects\ContactManager\bin\Debug\net9.0\ContactManager.exe
+C:\CODING\c-sharp\console-projects\ContactManager\bin\Debug\net9.0\ContactManager.deps.json
+C:\CODING\c-sharp\console-projects\ContactManager\bin\Debug\net9.0\ContactManager.runtimeconfig.json
+C:\CODING\c-sharp\console-projects\ContactManager\bin\Debug\net9.0\ContactManager.dll
+C:\CODING\c-sharp\console-projects\ContactManager\bin\Debug\net9.0\ContactManager.pdb
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.dll
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\refint\ContactManager.dll
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.pdb
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ContactManager.genruntimeconfig.cache
+C:\CODING\c-sharp\console-projects\ContactManager\obj\Debug\net9.0\ref\ContactManager.dll
